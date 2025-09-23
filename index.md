@@ -1,5 +1,7 @@
-# This is <h1>
-## This is <h2>
-### This is <h3>
+# This is A Page
+## Created By:
+### M F Shafee
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+var myVar = "Hello, world!";
